@@ -9,10 +9,12 @@ const xpText = document.querySelector("#xpText")
 const hpText = document.querySelector("#hpText")
 const goldText = document.querySelector("#goldText")
 
+/*
 function goStore() {
     button1.innerText = "Buy 20 health (25 gold)"
     button2.innerText = "Buy a new weapon (35 gold)"
     button3.innerText = "Go town?"
 }
+*/
 
 button1.onclick = goStore();
